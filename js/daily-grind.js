@@ -102,7 +102,7 @@ switch(myDay){
             day:"Thursday",
             desc:`Something for those hot summer days!`
         };
-
+    break;
         case 5:
             today = "Friday";
             coffee = {
@@ -113,7 +113,7 @@ switch(myDay){
                 day:"Friday",
                 desc:`Goes great with a chocolate crossiant!`
             };
-
+        break;
             case 6:
                 today = "Saturday";
                 coffee = {
@@ -124,8 +124,6 @@ switch(myDay){
                     day:"Saturday",
                     desc:`Its okay to be basic. Have your first Pumpkin Spice latte on us!`
                 };
-            break;
-        break;
     break;
 }
 
